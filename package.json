@@ -1,0 +1,29 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "This is a course of TDD with javascript",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoAlencar/js-tdd-course.git"
+  },
+  "keywords": [
+    "Javascript",
+    "ES6",
+    "ES7",
+    "ES8",
+    "TDD",
+    "Reactjs"
+  ],
+  "author": "João Bruno Mélo de Alencar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrunoAlencar/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/BrunoAlencar/js-tdd-course#readme"
+}
